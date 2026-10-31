@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Desi Zaika - Food Paradise</title>
+</head>
+<body>
+
+    <h1 id="top">Desi Zaika - Pakistan's Food Paradise</h1>
+    <p><b>Welcome!</b> This is <strong>heaven for food lovers</strong>. Pakistan has the best food in the world!</p>
+
+    <!-- ==================== 3. LINKS SECTION ============== -->
+    <h2>LINKS </h2>
+
+   
+    <a href="#about">1. About Food Paradise</a> |
+    <a href="#top5">2. Top 5 Foods</a> |
+    <a href="#funfact">3. Fun Facts</a>
+
+    
+    <a href="https://www.foodfusion.com" target="_blank">1. Food Fusion Website</a> |
+    <a href="https://www.youtube.com" target="_blank">2. YouTube for Recipes</a>
+
+    <hr>
+
+    <!-- ==================== 1. HEADINGS AND PARAGRAPHS ==================== -->
+    <h2 id="about">1. What is Food Paradise?</h2>
+    <p>Food Paradise means a place where you can find <b>every kind of tasty food</b> everywhere. It is a heaven for people who love to eat. From spicy street chaat to creamy lassi, everything is available 24 hours.</p>
+
+    <h2>2. Why Pakistan is a Food Paradise?</h2>
+    <p>Pakistan is a food paradise because it has <i>4 provinces and 4 different tastes</i>. Punjab has buttery karahi, Sindh has spicy biryani, KPK has chapli kebab, and Balochistan has juicy sajji. The chemical of love is C<sub>8</sub>H<sub>11</sub>NO<sub>2</sub> and Biryani gives 10<sup>2</sup> times more happiness! <strong>One country, 1000 dishes.</strong></p>
+
+    <h2>3. Our Mission</h2>
+    <p>Our mission is to save our cultural foods. <u>We eat together, we stay together.</u> <em>Food is not just eating, it is love.</em> <mark>We never waste food, we share food.</mark></p>
+
+    <hr>
+
+    <!-- ==================== 4. IMAGE TAG SECTION ==================== -->
+    <h2>IMAGES - 2 Images Included with Links</h2>
+    <p>Image 1: Sindhi Biryani</p>
+    <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=500" alt="Chicken Biryani Image" width="350">
+    
+    <p>Image 2: Chapli Kebab</p>
+    <img src="https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=500" alt="Chapli Kebab Image" width="350">
+
+    <p><b>Image Links Source:</b> https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8 and https://images.unsplash.com/photo-1606491956689-2ea866880c84</p>
+
+    <hr>
+
+    <!-- ==================== 2. TEXT FORMATTING TAGS ==================== -->
+    <h2>TEXT FORMATTING TAGS - All Used</h2>
+    <p><b>Bold with b tag:</b> Biryani is best</p>
+    <p><strong>Bold with strong tag:</strong> Pakistani food is world famous</p>
+    <p><i>Italic with i tag:</i> Taste of love</p>
+    <p><em>Italic with em tag:</em> Food connects hearts</p>
+    <p><u>Underline with u tag:</u> Important - Respect food</p>
+    <p><mark>Highlighted with mark tag: ANNOUNCEMENT - Food Festival on 15th Nov! Free Entry!</mark></p>
+    <p>Chemical formula with sub tag: H<sub>2</sub>O and Dopamine C<sub>8</sub>H<sub>11</sub>NO<sub>2</sub></p>
+    <p>Power with sup tag: Biryani Power = 10<sup>2</sup> = 100% Tasty</p>
+
+    <hr>
+
+    <!-- ==================== 5. LISTS SECTION ==================== -->
+    <h2>LISTS - All 3 Types Included</h2>
+
+    <h3 id="top5">A) Ordered List - Top 5 Favourite Foods (ol)</h3>
+    <ol>
+        <li>Chicken Biryani</li>
+        <li>Lahori Butt Karahi</li>
+        <li>Peshawari Chapli Kebab</li>
+        <li>Balochi Sajji</li>
+        <li>Gulab Jamun</li>
+    </ol>
+
+    <h3>B) Unordered List - Club Rules (ul) - 5 Items</h3>
+    <ul>
+        <li>Respect all foods</li>
+        <li>Share food with others</li>
+        <li>Try one new dish every week</li>
+        <li>No wasting food</li>
+        <li>Bring a friend to festival</li>
+    </ul>
+
+    <h3>C) Definition List - Food Dictionary (dl) - 3 Terms</h3>
+    <dl>
+        <dt><b>Biryani</b></dt>
+        <dd>Spicy rice dish with chicken/mutton, king of Pakistani foods.</dd>
+        
+        <dt><b>Sajji</b></dt>
+        <dd>Balochi dish where whole lamb is roasted on fire for hours.</dd>
+        
+        <dt><b>Lassi</b></dt>
+        <dd>Cold yogurt drink from Punjab, best in summer.</dd>
+    </dl>
+
+    <hr>
+
+    <h2 id="funfact">Bonus - Fun Fact Section</h2>
+    <p>Did you know? Pakistan has <mark>more than 300 types of kebabs</mark>! Karachi Burns Road sells Nihari at 3 AM!</p>
+
+    <h2>Catchy Name & Welcome Message</h2>
+    <p><strong>Website Name: DESI ZAIKA - Taste of Our Soil</strong></p>
+    <p>Welcome to all foodies! Eat Desi, Stay Healthy!</p>
+
+    <hr>
+    <a href="#top">Back to Top</a>
+
+</body>
+</html>
